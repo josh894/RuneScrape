@@ -1,0 +1,651 @@
+{
+  "Giant_Mole": [
+    {
+      "name": "Big bones",
+      "value": "1",
+      "title": "Always"
+    },
+    {
+      "name": "Mole claw",
+      "value": "1",
+      "title": "Always"
+    },
+    {
+      "name": "Mole skin",
+      "value": "1–3",
+      "title": "Always"
+    },
+    {
+      "name": "Adamant longsword",
+      "value": "1",
+      "title": "1/12.8"
+    },
+    {
+      "name": "Mithril platebody",
+      "value": "1",
+      "title": "1/14.22"
+    },
+    {
+      "name": "Amulet of strength",
+      "value": "1",
+      "title": "1/18.29"
+    },
+    {
+      "name": "Mithril axe",
+      "value": "1",
+      "title": "1/64"
+    },
+    {
+      "name": "Mithril battleaxe",
+      "value": "1",
+      "title": "1/128"
+    },
+    {
+      "name": "Rune med helm",
+      "value": "1",
+      "title": "1/128"
+    },
+    {
+      "name": "Air rune",
+      "value": "105",
+      "title": "1/6.4"
+    },
+    {
+      "name": "Blood rune",
+      "value": "15",
+      "title": "1/6.737"
+    },
+    {
+      "name": "Fire rune",
+      "value": "105",
+      "title": "1/11.64"
+    },
+    {
+      "name": "Iron arrow",
+      "value": "690",
+      "title": "1/12.8"
+    },
+    {
+      "name": "Law rune",
+      "value": "15",
+      "title": "1/25.6"
+    },
+    {
+      "name": "Death rune",
+      "value": "50",
+      "title": "1/42.67"
+    },
+    {
+      "name": "Yew logs",
+      "value": "100 (noted)",
+      "title": "1/12.8"
+    },
+    {
+      "name": "Shark",
+      "value": "4",
+      "title": "1/32"
+    },
+    {
+      "name": "Ranarr seed",
+      "value": "1",
+      "title": "~1/40"
+    },
+    {
+      "name": "Mithril bar",
+      "value": "1",
+      "title": "1/42.67"
+    },
+    {
+      "name": "Iron ore",
+      "value": "100 (noted)",
+      "title": "1/64"
+    },
+    {
+      "name": "Oyster pearls",
+      "value": "1",
+      "title": "1/128"
+    },
+    {
+      "name": "Nothing",
+      "value": "N/A",
+      "title": "1/34.41; Never"
+    },
+    {
+      "name": "Uncut sapphire",
+      "value": "1",
+      "title": "1/77.28; 1/39.3"
+    },
+    {
+      "name": "Uncut emerald",
+      "value": "1",
+      "title": "1/154.6; 1/78.5"
+    },
+    {
+      "name": "Loop half of key",
+      "value": "1",
+      "title": "1/189.1; 1/176"
+    },
+    {
+      "name": "Tooth half of key",
+      "value": "1",
+      "title": "1/189.1; 1/176"
+    },
+    {
+      "name": "Coins",
+      "value": "3,000",
+      "title": "1/195.1"
+    },
+    {
+      "name": "Uncut ruby",
+      "value": "1",
+      "title": "1/309.1; 1/157"
+    },
+    {
+      "name": "Runite bar",
+      "value": "1",
+      "title": "1/819.2"
+    },
+    {
+      "name": "Nature talisman",
+      "value": "1",
+      "title": "1/824.4; 1/419"
+    },
+    {
+      "name": "Uncut diamond",
+      "value": "1",
+      "title": "1/1,237; 1/628"
+    },
+    {
+      "name": "Nature rune",
+      "value": "67",
+      "title": "1/1,365"
+    },
+    {
+      "name": "Rune 2h sword",
+      "value": "1",
+      "title": "1/1,365"
+    },
+    {
+      "name": "Rune battleaxe",
+      "value": "1",
+      "title": "1/1,365"
+    },
+    {
+      "name": "Law rune",
+      "value": "45",
+      "title": "1/2,048"
+    },
+    {
+      "name": "Death rune",
+      "value": "45",
+      "title": "1/2,048"
+    },
+    {
+      "name": "Steel arrow",
+      "value": "150",
+      "title": "1/2,048"
+    },
+    {
+      "name": "Rune arrow",
+      "value": "42",
+      "title": "1/2,048"
+    },
+    {
+      "name": "Adamant javelin",
+      "value": "20",
+      "title": "1/2,048"
+    },
+    {
+      "name": "Rune sq shield",
+      "value": "1",
+      "title": "1/2,048"
+    },
+    {
+      "name": "Dragonstone",
+      "value": "1",
+      "title": "1/2,048"
+    },
+    {
+      "name": "Silver ore",
+      "value": "100 (noted)",
+      "title": "1/2,048"
+    },
+    {
+      "name": "Rune javelin",
+      "value": "5",
+      "title": "1/2,473; 1/1,256"
+    },
+    {
+      "name": "Rune spear",
+      "value": "1",
+      "title": "1/3,935; 1/421"
+    },
+    {
+      "name": "Rune kiteshield",
+      "value": "1",
+      "title": "1/4,096"
+    },
+    {
+      "name": "Dragon med helm",
+      "value": "1",
+      "title": "1/4,096"
+    },
+    {
+      "name": "Shield left half",
+      "value": "1",
+      "title": "1/7,869; 1/841"
+    },
+    {
+      "name": "Dragon spear",
+      "value": "1",
+      "title": "1/10,492; 1/1,121"
+    },
+    {
+      "name": "Brimstone key",
+      "value": "1",
+      "title": "1/74"
+    },
+    {
+      "name": "Long bone",
+      "value": "1",
+      "title": "1/400"
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "value": "1",
+      "title": "1/500"
+    },
+    {
+      "name": "Baby mole",
+      "value": "1",
+      "title": "1/3,000"
+    },
+    {
+      "name": "Curved bone",
+      "value": "1",
+      "title": "1/5,013"
+    }
+  ],
+  "Zulrah": [
+    {
+      "name": "Zulrah's scales",
+      "value": "100–299",
+      "title": "Always"
+    },
+    {
+      "name": "Tanzanite fang",
+      "value": "1",
+      "title": "2 × 1/1,024"
+    },
+    {
+      "name": "Magic fang",
+      "value": "1",
+      "title": "2 × 1/1,024"
+    },
+    {
+      "name": "Serpentine visage",
+      "value": "1",
+      "title": "2 × 1/1,024"
+    },
+    {
+      "name": "Uncut onyx",
+      "value": "1",
+      "title": "2 × 1/1,024"
+    },
+    {
+      "name": "Flax",
+      "value": "1,000 (noted)",
+      "title": "2 × 1/24.9"
+    },
+    {
+      "name": "Tanzanite mutagen",
+      "value": "1",
+      "title": "2 × 1/13,107"
+    },
+    {
+      "name": "Magma mutagen",
+      "value": "1",
+      "title": "2 × 1/13,107"
+    },
+    {
+      "name": "Battlestaff",
+      "value": "10 (noted)",
+      "title": "2 × 1/24.9"
+    },
+    {
+      "name": "Dragon med helm",
+      "value": "1",
+      "title": "2 × 1/124.5"
+    },
+    {
+      "name": "Dragon halberd",
+      "value": "1",
+      "title": "2 × 1/124.5"
+    },
+    {
+      "name": "Death rune",
+      "value": "250",
+      "title": "2 × 1/20.75"
+    },
+    {
+      "name": "Law rune",
+      "value": "200",
+      "title": "2 × 1/20.75"
+    },
+    {
+      "name": "Chaos rune",
+      "value": "400",
+      "title": "2 × 1/20.75"
+    },
+    {
+      "name": "Snapdragon",
+      "value": "10 (noted)",
+      "title": "2 × 1/124.5"
+    },
+    {
+      "name": "Dwarf weed",
+      "value": "30 (noted)",
+      "title": "2 × 1/124.5"
+    },
+    {
+      "name": "Toadflax",
+      "value": "25 (noted)",
+      "title": "2 × 1/124.5"
+    },
+    {
+      "name": "Torstol",
+      "value": "10 (noted)",
+      "title": "2 × 1/124.5"
+    },
+    {
+      "name": "Palm tree seed",
+      "value": "1",
+      "title": "2 × 1/41.5"
+    },
+    {
+      "name": "Papaya tree seed",
+      "value": "3",
+      "title": "2 × 1/41.5"
+    },
+    {
+      "name": "Calquat tree seed",
+      "value": "2",
+      "title": "2 × 1/41.5"
+    },
+    {
+      "name": "Magic seed",
+      "value": "1",
+      "title": "2 × 1/62.25"
+    },
+    {
+      "name": "Toadflax seed",
+      "value": "2",
+      "title": "2 × 1/124.5"
+    },
+    {
+      "name": "Snapdragon seed",
+      "value": "1",
+      "title": "2 × 1/124.5"
+    },
+    {
+      "name": "Dwarf weed seed",
+      "value": "2",
+      "title": "2 × 1/124.5"
+    },
+    {
+      "name": "Torstol seed",
+      "value": "1",
+      "title": "2 × 1/124.5"
+    },
+    {
+      "name": "Spirit seed",
+      "value": "1",
+      "title": "2 × 1/249"
+    },
+    {
+      "name": "Snakeskin",
+      "value": "35 (noted)",
+      "title": "2 × 1/22.64"
+    },
+    {
+      "name": "Runite ore",
+      "value": "2 (noted)",
+      "title": "2 × 1/22.64"
+    },
+    {
+      "name": "Pure essence",
+      "value": "1,500 (noted)",
+      "title": "2 × 1/24.9"
+    },
+    {
+      "name": "Yew logs",
+      "value": "35 (noted)",
+      "title": "2 × 1/24.9"
+    },
+    {
+      "name": "Adamantite bar",
+      "value": "20 (noted)",
+      "title": "2 × 1/31.13"
+    },
+    {
+      "name": "Coal",
+      "value": "200 (noted)",
+      "title": "2 × 1/31.13"
+    },
+    {
+      "name": "Dragon bones",
+      "value": "12 (noted)",
+      "title": "2 × 1/31.13"
+    },
+    {
+      "name": "Mahogany logs",
+      "value": "50 (noted)",
+      "title": "2 × 1/31.13"
+    },
+    {
+      "name": "Raw shark",
+      "value": "35 (noted)",
+      "title": "2 × 1/55.33"
+    },
+    {
+      "name": "Shark lure",
+      "value": "70",
+      "title": "2 × 1/55.33"
+    },
+    {
+      "name": "Manta ray",
+      "value": "35 (noted)",
+      "title": "2 × 1/83"
+    },
+    {
+      "name": "Zul-andra teleport",
+      "value": "4",
+      "title": "2 × 1/16.6"
+    },
+    {
+      "name": "Antidote++(4)",
+      "value": "10 (noted)",
+      "title": "2 × 1/27.67"
+    },
+    {
+      "name": "Dragonstone bolt tips",
+      "value": "12",
+      "title": "2 × 1/31.13"
+    },
+    {
+      "name": "Grapes",
+      "value": "250 (noted)",
+      "title": "2 × 1/41.5"
+    },
+    {
+      "name": "Coconut",
+      "value": "20 (noted)",
+      "title": "2 × 1/41.5"
+    },
+    {
+      "name": "Swamp tar",
+      "value": "1,000",
+      "title": "2 × 1/49.8"
+    },
+    {
+      "name": "Zulrah's scales",
+      "value": "500",
+      "title": "2 × 1/49.8"
+    },
+    {
+      "name": "Nothing",
+      "value": "N/A",
+      "title": "2 × 1/137.2; Never"
+    },
+    {
+      "name": "Coins",
+      "value": "3,000",
+      "title": "2 × 1/151.8"
+    },
+    {
+      "name": "Loop half of key",
+      "value": "1",
+      "title": "2 × 1/158.1; 1/157"
+    },
+    {
+      "name": "Tooth half of key",
+      "value": "1",
+      "title": "2 × 1/158.1; 1/157"
+    },
+    {
+      "name": "Uncut sapphire",
+      "value": "1",
+      "title": "2 × 1/637.4; 1/324"
+    },
+    {
+      "name": "Runite bar",
+      "value": "1",
+      "title": "2 × 1/637.4"
+    },
+    {
+      "name": "Nature rune",
+      "value": "67",
+      "title": "2 × 1/1,062"
+    },
+    {
+      "name": "Rune 2h sword",
+      "value": "1",
+      "title": "2 × 1/1,062"
+    },
+    {
+      "name": "Rune battleaxe",
+      "value": "1",
+      "title": "2 × 1/1,062"
+    },
+    {
+      "name": "Uncut emerald",
+      "value": "1",
+      "title": "2 × 1/1,275; 1/647"
+    },
+    {
+      "name": "Law rune",
+      "value": "45",
+      "title": "2 × 1/1,594"
+    },
+    {
+      "name": "Death rune",
+      "value": "45",
+      "title": "2 × 1/1,594"
+    },
+    {
+      "name": "Steel arrow",
+      "value": "150",
+      "title": "2 × 1/1,594"
+    },
+    {
+      "name": "Rune arrow",
+      "value": "42",
+      "title": "2 × 1/1,594"
+    },
+    {
+      "name": "Adamant javelin",
+      "value": "20",
+      "title": "2 × 1/1,594"
+    },
+    {
+      "name": "Rune sq shield",
+      "value": "1",
+      "title": "2 × 1/1,594"
+    },
+    {
+      "name": "Dragonstone",
+      "value": "1",
+      "title": "2 × 1/1,594"
+    },
+    {
+      "name": "Silver ore",
+      "value": "100 (noted)",
+      "title": "2 × 1/1,594"
+    },
+    {
+      "name": "Uncut ruby",
+      "value": "1",
+      "title": "2 × 1/2,550; 1/1,295"
+    },
+    {
+      "name": "Rune kiteshield",
+      "value": "1",
+      "title": "2 × 1/3,187"
+    },
+    {
+      "name": "Dragon med helm",
+      "value": "1",
+      "title": "2 × 1/3,187"
+    },
+    {
+      "name": "Rune spear",
+      "value": "1",
+      "title": "2 × 1/3,365; 1/390"
+    },
+    {
+      "name": "Shield left half",
+      "value": "1",
+      "title": "2 × 1/6,729; 1/781"
+    },
+    {
+      "name": "Nature talisman",
+      "value": "1",
+      "title": "2 × 1/6,799; 1/3,453"
+    },
+    {
+      "name": "Dragon spear",
+      "value": "1",
+      "title": "2 × 1/8,972; 1/1,041"
+    },
+    {
+      "name": "Uncut diamond",
+      "value": "1",
+      "title": "2 × 1/10,199; 1/5,179"
+    },
+    {
+      "name": "Rune javelin",
+      "value": "5",
+      "title": "2 × 1/20,398; 1/10,358"
+    },
+    {
+      "name": "Brimstone key",
+      "value": "1",
+      "title": "1/50"
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "value": "1",
+      "title": "1/75"
+    },
+    {
+      "name": "Jar of swamp",
+      "value": "1",
+      "title": "1/3,000"
+    },
+    {
+      "name": "Pet snakeling",
+      "value": "1",
+      "title": "1/4,000"
+    }
+  ]
+}
